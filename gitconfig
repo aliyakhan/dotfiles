@@ -1,6 +1,6 @@
 [user]
-  name = Bassam Ismail
-  email = skippednote@gmail.com
+  name = Aliya Khan
+  email = khan.aliya1@gmail.com
 
 [color]
   branch = auto
@@ -13,7 +13,7 @@
   editor = code -rw
   fileMode = false
   pager = delta --theme='GitHub'
-  excludesfile = /Users/skippednote/.gitignore
+  excludesfile = /Users/aliyakhan/.gitignore
 
 [interactive]
   diffFilter = delta --color-only
@@ -27,9 +27,6 @@
 [mergetool "vscode"]
   cmd = code --wait $MERGED
 
-# [commit]
-#   template = /home/skippednote/.gitmessage
-
 [push]
   branch = current
   default = current
@@ -42,7 +39,7 @@
   date = short
 
 [github]
-  user = skippednote
+  user = aliyakhan
 
 [remote "origin"]
   prune = true
